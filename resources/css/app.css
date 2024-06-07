@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.headline-wrapper {
+    background-image: url('@images/headline.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.JessicaBiogi {
+    color: #fff;
+    font-size: 96px;
+    font-weight: 700;
+    line-height: normal;
+}
