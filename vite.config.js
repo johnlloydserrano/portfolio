@@ -24,6 +24,7 @@ export default defineConfig({
             '@components': resolve(__dirname, './resources/js/components'),
             '@pages': resolve(__dirname, './resources/js/pages'),
             '@composables': resolve(__dirname, './resources/js/composables'),
+            '@services': resolve(__dirname, './resources/js/services'),
             '@images': resolve(__dirname, './public/images'),
         },
     },
